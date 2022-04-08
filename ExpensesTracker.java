@@ -32,7 +32,7 @@ public class ExpensesTracker{
 		if(yn.equalsIgnoreCase("n")) {
 
 				System.out.println("Get off of ZoodMall!");
-			}
+			
 		}
       // Close ClassWriter & Scanner objects
         	scan.close();
